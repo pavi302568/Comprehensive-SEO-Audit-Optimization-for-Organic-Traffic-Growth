@@ -17,3 +17,18 @@ EAZY ERP refers to user-friendly enterprise resource planning systems designed t
 
 **Keysearch volume**
 ![image](https://github.com/user-attachments/assets/135027d2-8c11-46d1-96c0-f6c86f0792c9)
+
+
+**Technical SEO**
+![image](https://github.com/user-attachments/assets/f4e88c41-ce3b-4794-8b85-53c17c9a2082)
+
+**Off-page SEO Plan**
+
+**Link Builder:** Acquire high-quality backlinks from reputable sites to improve your ERP’s authority and search engine rankings.
+**Guest Blogging:** Write insightful articles for relevant blogs in the ERP space to establish expertise and gain valuable backlinks.
+**Online Directories:** Register your ERP solution in industry-specific online directories to enhance visibility and local SEO.
+**Social Media Marketing:** Share informative content about your ERP on social media to engage potential customers and drive traffic to your site.
+**Online Reviews:** Encourage satisfied users to leave positive reviews on platforms like Google and Capterra to build credibility and attract new clients.
+
+
+
