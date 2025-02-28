@@ -22,6 +22,30 @@ EAZY ERP refers to user-friendly enterprise resource planning systems designed t
 **Technical SEO**
 ![image](https://github.com/user-attachments/assets/f4e88c41-ce3b-4794-8b85-53c17c9a2082)
 
+**On-page SEO Plan**
+
+**Title:** EAZY ERP | Tally based DMS software | SaaS DMS
+
+**Meta Description:**
+	EAZY ERP Business solutions provide unique feature of Tally integration with Data Management Software to increase sales target. Also integrated with GST software to run their business smoothly. SaaS based applications will help the users to connect with the end users via internet without any traditional setup or licencing cost. 
+
+**HTML tags:**
+
+H1 - Overview – EAZY DMS, Distributor Management System For Tally.ERP9, Features, Our Clients.
+
+H2 - Benefits of Adopting DMS, Benefits of Using EAZY DMS, Get in touch, Benefits of a Tally Based DMS, Implementation/Rollout Model, Support/Helpdesk Model.
+
+Keywords are optimized and used 4 times.
+
+There is no Internal link in this Content.
+
+Image use is optimized properly.
+
+	alt="Eazy ERP, Software for tracking secondary sales“
+
+
+
+
 **Off-page SEO Plan**
 
 **Link Builder:** Acquire high-quality backlinks from reputable sites to improve your ERP’s authority and search engine rankings.
